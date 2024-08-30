@@ -1,5 +1,7 @@
 Git & GitHub
 
+Nombre: Octavio Rolon Hernandez
+
 1- Contestar las siguientes preguntas utilizando las guías y documentación proporcionada
 (Desarrollar las respuestas) :
 
